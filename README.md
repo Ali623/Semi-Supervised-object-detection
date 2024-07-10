@@ -21,6 +21,8 @@ To explore and use the code and resources in this repository, follow these steps
 
 ## Exceution
 
+In order to
+
 ## Contact
 If you have questions, ideas, or collaboration opportunities, feel free to reach out:
 
