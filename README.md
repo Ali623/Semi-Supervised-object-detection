@@ -21,7 +21,7 @@ To explore and use the code and resources in this repository, follow these steps
 
 ## Exceution
 
-In order to excecute the code just run the .ipynb file after installing
+In order to excecute the code just run the .ipynb file after installing all the dependencies.
 
 ## Contact
 If you have questions, ideas, or collaboration opportunities, feel free to reach out:
